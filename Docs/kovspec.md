@@ -20,3 +20,14 @@ Minden funkció hibátlanul működjön és megbízható felületet tudjunk bizt
 
 Az alkalmazás használatához először regisztrálni kell.
 A felhasználók e-mail címük és jelszavuk megadásával hoznak létre fiókot.
+
+2. Profil Szerkesztése
+
+Miután bejelentkeztek, a felhasználók hozzáférhetnek a profiljuk szerkesztéséhez.
+Itt lehetőségük van a következők módosítására:
+
+    - Profilkép hozzáadása vagy megváltoztatása.
+    - Profilnál megjelenő bemutatkozás megírása.
+    - Egyéb személyes információk, például név, lakcím stb. hozzáadása.
+
+Ha esetleg valaki úgy gondolja nem szeretene regisztrálni akkor módjában áll a guest fiók használatára is.
