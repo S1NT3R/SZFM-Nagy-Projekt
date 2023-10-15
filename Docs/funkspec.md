@@ -48,3 +48,7 @@ legyenek.
 
 A rendszernek képesnek kell lennie arra, hogy moderálja a tartalmat annak érdekében, 
 hogy biztosítsa a közösség számára elfogadható tartalom létrehozását.
+
+## Képernyő terv:
+
+Figam link: https://www.figma.com/file/aXqtArActBWCTs8CsKbCFl/L%C3%A9p%C3%A9ssz%C3%A1ml%C3%A1l%C3%B3?type=design&node-id=0-1&mode=design&t=19d9G9Fz8fpSFDsI-0
