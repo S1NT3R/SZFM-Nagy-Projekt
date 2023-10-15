@@ -45,5 +45,8 @@ Lehetőség van csapatok létrehozására és versenyek szervezésére.
 Ezen versenyeken bárki részt vehet, ami segít egymást motiválni és élvezni az alkalmazást.
 Ezáltal a felhasználók egymás közötti versengés révén fokozottabban élvezhetik az alkalmazás előnyeit.
 
+- Modellje:
+
+![](modell.png)
 
 
