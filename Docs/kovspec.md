@@ -15,3 +15,19 @@ adatvédelmi intézkedésekről, valamint arról, hogy milyen jogokkal rendelkez
 Ezen szabályok betartása alapvető fontosságú annak érdekében, hogy a felhasználók biztonságban érezzék 
 magukat és megfelelően tudják használni az alkalmazást. 
 Ezáltal a rendszer hozzájárul az egyének aktív és egészséges életmódjának támogatásához.
+
+## 6. Követelménylista:
+
+1. A pontos lépésszámlálás
+
+
+2. Lehetőség a statisztika megtekitésére
+
+
+3. Felhasználóbarát felület
+
+
+4. Adatvédelmi szabályok betartása
+
+
+5. Moderációs eszközök a megfelelő tartalom biztosításához
