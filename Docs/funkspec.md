@@ -120,3 +120,59 @@ Ezáltal a felhasználók egymás közötti versengés révén fokozottabban él
 - Modellje:
 
 ![](modell.png)
+
+
+## 5. A rendszerre vonatkozó szabályok:
+
+A rendszernek gondoskodnia kell arról, hogy a felhasználók személyes adatai biztonságban legyenek.
+Ez magában foglalja az erős jelszavak, titkosított kapcsolatok és más biztonsági intézkedések alkalmazását.
+
+A rendszernek megfelelően kell kezelnie és tárolnia a felhasználói adatokat,
+valamint be kell tartania az adatvédelmi előírásokat és jogszabályokat.
+
+A rendszer által megjelenített tartalmaknak nem lehetnek sértőek,
+diszkriminatívak vagy provokatívak. Minden felhasználónak joga van a biztonságos és tiszteletteljes környezethez.
+
+A felhasználóknak világosan és érthetően kell tájékoztatni a rendszer által alkalmazott
+adatvédelmi intézkedésekről, valamint arról, hogy milyen jogokkal rendelkeznek az adataik kezelése terén.
+
+Ezen szabályok betartása alapvető fontosságú annak érdekében, hogy a felhasználók biztonságban érezzék
+magukat és megfelelően tudják használni az alkalmazást.
+Ezáltal a rendszer hozzájárul az egyének aktív és egészséges életmódjának támogatásához.
+
+## 6. Követelménylista:
+
+1. A pontos lépésszámlálás
+
+Megfelelő pontossággal kell számolnia a lépéseket a rendszernek, 
+amelyeket a felhasználó az eszközén keresztül rögzít, ahol az alkalmazás telepítve van.
+
+2. Lehetőség a statisztika megtekitésére 
+
+Fontos, hogy a felhasználóknak lehetőségük legyen megtekinteni az elért 
+eredményeiket és visszakövetni a lépéseiket. Ez kiemelt szerepet kap az alkalmazásban.
+
+3. Felhasználóbarát felület
+
+A rendszer által megjelenített tartalmaknak nem lehetnek sértőek, 
+diszkriminatívak vagy provokatívak. Minden felhasználónak joga van a biztonságos és 
+tiszteletteljes környezethez.
+
+A felhasználóknak világosan és érthetően kell tájékoztatni a rendszer által alkalmazott
+adatvédelmi intézkedésekről, valamint arról, hogy milyen jogokkal 
+rendelkeznek az adataik kezelése terén.
+
+4. Adatvédelmi szabályok betartása
+
+Kiemelelten fontos, hogy a rendszer betartsa az adatvédelmi 
+szabályokat és gondoskodjon arról, hogy a felhasználók személyes adatai biztonságban 
+legyenek.
+
+5. Moderációs eszközök
+
+A rendszernek képesnek kell lennie arra, hogy moderálja a tartalmat annak érdekében, 
+hogy biztosítsa a közösség számára elfogadható tartalom létrehozását.
+
+## Képernyő terv:
+
+Figma link: https://www.figma.com/file/aXqtArActBWCTs8CsKbCFl/L%C3%A9p%C3%A9ssz%C3%A1ml%C3%A1l%C3%B3?type=design&node-id=0-1&mode=design&t=19d9G9Fz8fpSFDsI-0
