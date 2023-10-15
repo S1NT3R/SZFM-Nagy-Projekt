@@ -15,3 +15,25 @@ adatvédelmi intézkedésekről, valamint arról, hogy milyen jogokkal rendelkez
 Ezen szabályok betartása alapvető fontosságú annak érdekében, hogy a felhasználók biztonságban érezzék
 magukat és megfelelően tudják használni az alkalmazást.
 Ezáltal a rendszer hozzájárul az egyének aktív és egészséges életmódjának támogatásához.
+
+## 6. Követelménylista:
+
+1. A pontos lépésszámlálás
+
+Megfelelő pontossággal kell számolnia a lépéseket a rendszernek, 
+amelyeket a felhasználó az eszközén keresztül rögzít, ahol az alkalmazás telepítve van.
+
+2. Lehetőség a statisztika megtekitésére 
+
+Fontos, hogy a felhasználóknak lehetőségük legyen megtekinteni az elért 
+eredményeiket és visszakövetni a lépéseiket. Ez kiemelt szerepet kap az alkalmazásban.
+
+3. Felhasználóbarát felület
+
+A rendszer által megjelenített tartalmaknak nem lehetnek sértőek, 
+diszkriminatívak vagy provokatívak. Minden felhasználónak joga van a biztonságos és 
+tiszteletteljes környezethez.
+
+A felhasználóknak világosan és érthetően kell tájékoztatni a rendszer által alkalmazott
+adatvédelmi intézkedésekről, valamint arról, hogy milyen jogokkal 
+rendelkeznek az adataik kezelése terén.
