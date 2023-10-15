@@ -38,3 +38,12 @@ Az alkalmazásban lehetőség van minél több és izgalmasabb feladat létrehoz
 hogy mindig motiváló legyen ezek elérésére.
 Ezek az újra megújuló kitüntetések további lendületet adnak a felhasználóknak.
 
+4. Versenyek
+
+A közösségi játékok létrehozása nem csak az adminok kiváltsága, hanem a felhasználóké is lehet.
+Lehetőség van csapatok létrehozására és versenyek szervezésére.
+Ezen versenyeken bárki részt vehet, ami segít egymást motiválni és élvezni az alkalmazást.
+Ezáltal a felhasználók egymás közötti versengés révén fokozottabban élvezhetik az alkalmazás előnyeit.
+
+
+
