@@ -37,3 +37,14 @@ tiszteletteljes környezethez.
 A felhasználóknak világosan és érthetően kell tájékoztatni a rendszer által alkalmazott
 adatvédelmi intézkedésekről, valamint arról, hogy milyen jogokkal 
 rendelkeznek az adataik kezelése terén.
+
+4. Adatvédelmi szabályok betartása
+
+Kiemelelten fontos, hogy a rendszer betartsa az adatvédelmi 
+szabályokat és gondoskodjon arról, hogy a felhasználók személyes adatai biztonságban 
+legyenek.
+
+5. Moderációs eszközök
+
+A rendszernek képesnek kell lennie arra, hogy moderálja a tartalmat annak érdekében, 
+hogy biztosítsa a közösség számára elfogadható tartalom létrehozását.
