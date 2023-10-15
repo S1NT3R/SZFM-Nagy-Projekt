@@ -31,3 +31,9 @@ Itt lehetőségük van a következők módosítására:
     - Egyéb személyes információk, például név, lakcím stb. hozzáadása.
 
 Ha esetleg valaki úgy gondolja nem szeretene regisztrálni akkor módjában áll a guest fiók használatára is.
+
+3. Kitüntetések Gyűjtése
+
+Az alkalmazásban lehetőség van minél több és izgalmasabb feladat létrehozására,
+hogy mindig motiváló legyen ezek elérésére.
+Ezek az újra megújuló kitüntetések további lendületet adnak a felhasználóknak.
