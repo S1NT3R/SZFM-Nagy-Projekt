@@ -28,3 +28,44 @@ A tervezett mobilalkalmazás elsődleges célja, hogy lehetővé tegye a felhasz
 hogy egyszerűen és hatékonyan követhessék lépéseik számát a nap folyamán.
 Emellett szeretnénk egy motiváló és szórakoztató felületet biztosítani,
 amely ösztönzi őket a rendszeres testmozgásra.
+
+### Jövőbeli tervek:
+
+1. Felhasználói Regisztráció és Belépés
+
+A felhasználóknak lehetőségük van regisztrálni az alkalmazásba, hogy személyre szabottabb élményben részesüljenek.
+A regisztrált felhasználók számára elérhetővé válnak különböző extra funkciók, mint például a profil szerkesztése.
+
+2. Profil Szerkesztése
+
+Ilyen lenne például a profilkép, profilnál megjelenő bemutatkozás, megjegyzés,
+az elért eredmények esetleg egyéb statisztikák a lépéseikről.
+
+3. Barátok hozzáadása
+
+A regisztráció során lehetőség nyílik más felhasználók hozzáadására,
+így együtt élvezhetjük az alkalmazás kínálta lehetőségeket.
+Ezen keresztül lehetőség adódik közös versenyek szervezésére is,
+ami remek közösségi program lehet.
+Ezáltal a felhasználók ösztönözhetik egymást az aktív életmódra, valamint együtt érhetik el a kitűzött célokat.
+
+4. Guest Mód
+
+Azok a felhasználók, akik nem kívánnak regisztrálni, képesek lesznek guest profil létrehozására,
+hogy használni tudják az alkalmazást.
+Azonban a guest felhasználók csak a napi lépéseiket tudják követni.
+
+5. Kitüntetések Gyűjtése
+
+A felhasználók lehetőséget kapnak arra, hogy gyűjtsék az elért eredményeikért járó kitüntetéseket,
+amelyeket később vissza is tudnak tekinteni.
+
+6. Versenyek
+
+Későbbiekben tervezzük olyan "versenyek" szervezését, ahol a felhasználók extra kitüntetéseket nyerhetnek a napi,
+heti vagy havi legtöbb lépésekért és ezésrt jutalmul valami extra kitüntetésben részesülnének.
+
+7. Részletes statisztikák és grafikonok készítése a felhasználók aktivitásáról is az elképzeléseink közé tartozik.
+
+8. Támogatás külső eszközökkel, például okosórákkal történő lépésszámlálásra is gondoltunk.
+
