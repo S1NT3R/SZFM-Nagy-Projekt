@@ -21,3 +21,10 @@ Ráadásul folyamatos fejlesztéseink során tervezünk olyan funkciókat is bev
 amelyek még szélesebb körű támogatást nyújtanak a felhasználók számára, például külső eszközök
 (pl. okosórák) integrációját a lépésszámláló rendszerrel.
 Ezáltal még pontosabb és átfogóbb képet kaphatnak mozgásukról és egészségügyi állapotukról.
+
+## 2. Vágyálom rendszer:
+
+A tervezett mobilalkalmazás elsődleges célja, hogy lehetővé tegye a felhasználók számára,
+hogy egyszerűen és hatékonyan követhessék lépéseik számát a nap folyamán.
+Emellett szeretnénk egy motiváló és szórakoztató felületet biztosítani,
+amely ösztönzi őket a rendszeres testmozgásra.
