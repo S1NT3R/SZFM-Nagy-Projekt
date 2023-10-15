@@ -16,3 +16,8 @@ Minden funkció hibátlanul működjön és megbízható felületet tudjunk bizt
 
 ## 4. Igényelt üzleti folyamatok:
 
+1. Regisztráció
+
+Az alkalmazás használatához először regisztrálni kell.
+A felhasználók e-mail címük és jelszavuk megadásával hoznak létre fiókot.
+
