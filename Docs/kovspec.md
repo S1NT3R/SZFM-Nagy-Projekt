@@ -9,3 +9,7 @@ hogy nyomon kövessék mozgásukat.
 Emellett lehetőséget biztosít az adatok visszatekintésére a napi, heti és havi összegzésre
 valamint elért eredmények áttekintésére.
 Az alkalmazás célja, hogy ösztönözze az embereket az aktív életmódra és segítsen nekik elérni a kitűzött célokat.
+
+Célunk hogy az alkalmazásunk lehetőleg több operációs rendszerű mobiltelefonon, tableten is  működjön,
+reszponzív felülettel.
+Minden funkció hibátlanul működjön és megbízható felületet tudjunk biztosítani.
