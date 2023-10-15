@@ -13,3 +13,6 @@ Az alkalmazás célja, hogy ösztönözze az embereket az aktív életmódra és
 Célunk hogy az alkalmazásunk lehetőleg több operációs rendszerű mobiltelefonon, tableten is  működjön,
 reszponzív felülettel.
 Minden funkció hibátlanul működjön és megbízható felületet tudjunk biztosítani.
+
+## 4. Igényelt üzleti folyamatok:
+
