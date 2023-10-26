@@ -126,3 +126,7 @@ hogy milyen méretű és forgalmú alkalmazást tervezel.
 12. Tesztelési és minőségbiztosítási költségek: 
 
     A tesztelés és minőségbiztosítás költségei szintén változóak lehetnek.
+
+## Rendszerarchitektúra:
+
+[TODO]
