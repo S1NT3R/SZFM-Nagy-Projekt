@@ -130,3 +130,44 @@ hogy milyen méretű és forgalmú alkalmazást tervezel.
 ## Rendszerarchitektúra:
 
 [TODO]
+
+## Felhasználói Interfész:
+
+A tervezett felhasználói interfész egy átfogó és modern megközelítést alkalmaz az alkalmazás használatának 
+megkönnyítésére és a felhasználók számára valódi élmény nyújtására. Az alábbiakban részletesen bemutatjuk a 
+tervezett interfész fontosabb tulajdonságait:
+
+1. Fő Kezdőképernyő:   
+
+      Az alkalmazás fő kezdőképernyője tartalmazza a lépésszámlálást, a megtett távolságot és az aktuális irányt. 
+A felhasználó itt láthatja az eddigi eredményeket és az útvonalat térképen.
+
+
+2.	Térképes Navigáció: 
+
+      Az interfész egy integrált térképet is tartalmaz, ahol a felhasználók nyomon követhetik útvonalaikat, és az 
+iránymutató jelek alapján könnyen tájékozódhatnak.
+
+
+3.	Felhasználói Profil: 
+
+      A felhasználók egyéni profilokat hozhatnak létre, ahol tárolhatják adataikat, elérhetik korábbi aktivitásaikat 
+és követhetik fejlődésüket.
+
+
+4.	Statisztikák és Diagramok: 
+
+      Az alkalmazás részletes statisztikákat és diagramokat nyújt a lépésszámokról, távolságokról és aktivitásokról, 
+ami segíti a felhasználókat a céljaik elérésében.
+
+
+5.	Beállítások és Testreszabás:  
+
+      A felhasználóknak lehetőségük van az interfész testreszabására, például mértékegység kiválasztására, értesítések 
+beállítására és szenzorok kalibrálására.
+
+
+6.	Történet és Megosztás:  
+
+      Az interfész lehetőséget biztosít az aktivitások történetének visszakeresésére és megosztására közösségi médiában 
+vagy e-mailen keresztül.
