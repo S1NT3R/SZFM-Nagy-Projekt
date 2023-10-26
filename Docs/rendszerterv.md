@@ -57,4 +57,72 @@
 
 13. Hét:
 
-- Átadás-átvétel (értékelés) 
+- Átadás-átvétel (értékelés)
+
+## Erőforrások:
+
+1. Fejlesztők:
+
+- Android alkalmazás fejlesztő:    
+  Ha az alkalmazást Android platformra tervezed, szükséged lesz Android alkalmazásfejlesztőre.
+
+- iOS alkalmazás fejlesztő:    
+  Ha az alkalmazást iOS platformra is szeretnéd elérhetővé tenni, iOS alkalmazásfejlesztőre is szükséged lesz.
+
+- Back-end fejlesztő:    
+  Amennyiben szerveroldali komponenst is tervezel az alkalmazásodhoz, back-end fejlesztőre lesz szükséged.
+
+2. UI/UX tervező:  
+
+   Az alkalmazás felhasználói felületének és felhasználói élményének tervezéséhez és kialakításához szükséges egy UI/UX 
+tervező.
+
+
+3. Térképszolgáltató:   
+
+   Ha térkép szolgáltatást használsz, például a Google Térképet vagy az OpenStreetMap-et, akkor a térképszolgáltató 
+költségeivel is számolnod kell.
+
+
+4. Adatbázis és szerverinfrastruktúra:
+
+   Az útvonalak és felhasználói adatok tárolásához szükség lesz egy megbízható adatbázisra és szerverinfrastruktúrára. 
+Ezt is finanszírozni kell.
+
+
+5. Tesztelés és minőségbiztosítás:
+
+   Tesztelők vagy minőségbiztosítási szakemberek szükségesek az alkalmazás hibáinak kiszűréséhez és a minőségi 
+felhasználói élmény biztosításához.
+
+
+6. Projektmenedzser:   
+
+   Egy projektmenedzser segíthet a projekt irányításában, a határidők betartásában és a költségek ellenőrzésében.
+
+
+7. Költségek:   
+
+   Az alkalmazás fejlesztésének költségei jelentősen változhatnak a projekt komplexitásától és az alkalmazás 
+funkcionalitásától függően. Az alábbi tényezők befolyásolhatják a költségeket:
+
+
+9. Munkaerő költségek:   
+
+   A fejlesztők és tervezők bérezése jelentős tényező. A fejlesztők tapasztalata és helye is befolyásolja a béreket.
+
+
+10. Infrastruktúra költségei:   
+
+    A szerverek, adatbázisok és egyéb infrastruktúra költségek ismeretlenek lehetnek. Ez a költség nagyban függ attól, 
+hogy milyen méretű és forgalmú alkalmazást tervezel.
+
+
+11. Térképszolgáltatás díjai:  
+
+    Térképszolgáltatástól függően a lekérdezések és használat díjszabása eltérő lehet.
+
+
+12. Tesztelési és minőségbiztosítási költségek: 
+
+    A tesztelés és minőségbiztosítás költségei szintén változóak lehetnek.
