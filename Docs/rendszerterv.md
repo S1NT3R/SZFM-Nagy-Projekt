@@ -27,3 +27,22 @@ Az alkalmazás egy beltéri lépésszámlálásra épülő rendszer, amely a fel
      Ez az alkalmazás ideális beltéri tevékenységekhez, például edzőtermi edzésekhez vagy egyéb zárt térben végzett mozgásformákhoz, ahol a GPS jelet nem lehet használni.   
      A lépésszámlálás és az iránymeghatározás kombinációjával a rendszer pontosan követi a felhasználó tevékenységét, és lehetővé teszi számukra, hogy nyomon kövessék előrehaladásukat és javulásukat.
 
+## Rendszer Célja:
+Ez a technológia különösen számos felhasználó számára lehet értékes, és az egyes csoportok számára különböző funkciók lehetnek a legfontosabbak:
+
+1.	Sportolók és Fitnesz Rajongók:    
+      Sportolók és aktív életmódot élők a leginkább értékelhetik a rendszer lépésszámláló és távolságmérő funkcióját. Ez segít nekik nyomon követni és optimalizálni a teljesítményüket, valamint nyomon követni az edzéseik hatékonyságát.
+
+2.	Túrázók és Szabadidős Aktivisták:   
+      A túrázók és a természetjárók számára az iránymeghatározás lenne a legfontosabb, mivel lehetővé tenné számukra, hogy nyomon kövessék, merre jártak a természetben és könnyebben visszataláljanak a kiindulóponthoz.
+
+3.	Idősebb Emberek és Egészségügyi Szakemberek:   
+      Az idősebb emberek és az egészségügyi szakemberek a lépésszámlálás és a távolságmérés segítségével könnyebben monitorozhatják a fizikai aktivitást, ami hozzájárulhat az egészségmegőrzéshez és a rehabilitációhoz.
+
+4.	Belső Sportlétesítmények Felhasználói:   
+      Azok, akik beltéri sportlétesítményekben, például futópadokon vagy konditermekben edzenek, a beltéri lépésszámlálás és a távolság mérésének képességét találhatják a leghasznosabbnak, mivel nincs hozzáférésük GPS jelhez.
+
+5.	Okostelefon-alkalmazás Fejlesztők:   
+      Az alkalmazásfejlesztők és technológiai vállalkozások értékelhetik az adatkezelési és megosztási funkciókat, mivel ezek segítenek az alkalmazások funkcionalitásának bővítésében és az adatok elemzésében.   
+      Az említett célcsoportok között az alkalmazás különböző funkciói változó mértékben lehetnek relevánsak, de az egyedi igények és elvárások szerint személyre szabhatók, hogy minél szélesebb körű felhasználói elégedettséget biztosítsanak.
+
