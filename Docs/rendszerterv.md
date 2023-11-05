@@ -46,3 +46,35 @@ Ez a technológia különösen számos felhasználó számára lehet értékes, 
       Az alkalmazásfejlesztők és technológiai vállalkozások értékelhetik az adatkezelési és megosztási funkciókat, mivel ezek segítenek az alkalmazások funkcionalitásának bővítésében és az adatok elemzésében.   
       Az említett célcsoportok között az alkalmazás különböző funkciói változó mértékben lehetnek relevánsak, de az egyedi igények és elvárások szerint személyre szabhatók, hogy minél szélesebb körű felhasználói elégedettséget biztosítsanak.
 
+## Terv:
+
+1. Felhasználói Regisztráció és Belépés:
+    - Az adatokat egy biztonságos módon tároljuk egy adatbázisban (pl. Firebase, MySQL).
+    - A regisztrációhoz és a belépéshez kapcsolódó folyamatokat kezeljük az alkalmazásban lévő űrlapokkal és bejelentkezési kezelőkkel.
+
+2. Profil Szerkesztése:
+    - A felhasználók személyes adatokat tárolhatnak az adatbázisban, és ezeket az adatokat jeleníthetik meg a profiljukon.
+    - A felhasználók a profilképüket feltölthetik egy képfeltöltő felület segítségével, amely lehetővé teszi a képek kiválasztását és feltöltését.
+
+3. Barátok Hozzáadása:
+    - Az alkalmazásba építhetünk barátkereső funkciót, amely lehetővé teszi a felhasználók számára más felhasználók keresését név vagy e-mail cím alapján.
+    - A barátkéréseket és jóváhagyásokat szintén az adatbázisban tároljuk, és az alkalmazás értesítéseket küldhet, amikor új barátokat adnak hozzá vagy jóváhagyják.
+
+4. Guest Mód:
+    - Az alkalmazás lehetőséget nyújthat a felhasználóknak arra, hogy "vendégként" használják, és csak a lépéseiket követhessék anélkül, hogy regisztrálnának.
+
+5. Kitüntetések Gyűjtése:
+    - Az alkalmazás követi a felhasználók aktivitását, és automatikusan ad kitüntetéseket az elért eredményekért.
+    - A kitüntetéseket az adatbázisban tároljuk és az alkalmazás felhasználói felületén jelenítjük meg.
+
+6. Versenyek:
+    - Az alkalmazás lehetőséget ad versenyek szervezésére és csatlakozásra.
+    - A versenyek eredményeit és nyerteseit az adatbázisban tároljuk, és a felhasználók számára megjelenítjük az eredményeket.
+
+7. Részletes Statisztikák és Grafikonok:
+    - Az alkalmazás lehetőséget nyújthat a felhasználóknak arra, hogy részletes statisztikákat és grafikonokat készítsenek a lépéseikről és aktivitásaikról.
+    - Az adatokat az alkalmazás gyűjti és az adatbázisban tárolja, majd ezeket adatokat használja a grafikonok létrehozásához és megjelenítéséhez.
+
+8. Támogatás Külső Eszközökkel:
+    - Az alkalmazás lehetővé teheti az okosórák és más külső eszközök csatlakoztatását a lépésszámlálás és aktivitás nyomon követéséhez.
+    - Használjunk megfelelő API-kat és szolgáltatásokat a külső eszközökkel történő kommunikációhoz és adatok szinkronizálásához.
