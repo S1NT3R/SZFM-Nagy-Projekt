@@ -158,6 +158,10 @@ A folyamatos fejlesztés és frissítések hozzájárulnak az alkalmazás hossz�
 
 ## Időpontok:
 
+Trello:
+
+https://trello.com/b/nZ0KxypE/szoftverfejleszt%C3%A9si-m%C3%B3dszertanok-nagyprojekt
+
 6. Hét:
 
 - Követelmény specifikációk:
