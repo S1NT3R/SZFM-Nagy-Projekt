@@ -153,9 +153,6 @@ A lépésszámláló és iránymeghatározás pontosságának növelése érdek�
 Ez a karbantartási és továbbfejlesztési terv segít abban, hogy az alkalmazás naprakész maradjon, javítsa a felhasználói élményt és reagáljon az ügyfelek igényeire.   
 A folyamatos fejlesztés és frissítések hozzájárulnak az alkalmazás hosszú távú sikeréhez és relevanciájához.
 
-## Fogalom szótár:
-[TODO]
-
 ## Időpontok:
 
 Trello:
@@ -291,7 +288,23 @@ hogy milyen méretű és forgalmú alkalmazást tervezel.
 
 ## Rendszerarchitektúra:
 
-[TODO]
+Az RSSI (Received Signal Strength Indication) egy vezeték nélküli kommunikációs paraméter, amely azt mutatja meg, mennyire erős a fogadott rádiófrekvenciás jel. Az RSSI értéket általában decibelben (dBm) vagy relatív értékben fejezik ki, és azt mutatja meg, hogy a vételi eszköz (pl. okostelefon, Wi-Fi adapter) milyen erősségű jelet észlel egy küldő eszköztől (például vezeték nélküli hozzáférési pont, Bluetooth eszköz).
+
+Néhány kulcsfontosságú pont az RSSI-vel kapcsolatban:
+
+1.  Mérési skála:
+
+    Az RSSI érték egy negatív skálán van kifejezve, például -30 dBm és -100 dBm között. Minél kisebb az érték abszolút értékben, annál erősebb a fogadott jel. Tehát egy -30 dBm érték egy erősebb jelre utal, mint egy -80 dBm érték.
+
+2.   Távolság és jelminőség:
+
+     Az RSSI segíthet becsülni a két eszköz közötti távolságot és a vezeték nélküli kapcsolat minőségét. Általában az erősebb jel erősebb kapcsolatot és közelebbi távolságot jelez.
+
+3.   Zavarok és interferencia:
+
+     Az RSSI         figyelembevételével az eszközök képesek felmérni a környezeti zavarokat és interferenciát. Az alacsony RSSI-értékek gyakran jelzik, hogy zavarok vagy távolság miatt problémák lehetnek a kommunikációval.
+
+
 
 ## Felhasználói Interfész:
 
@@ -333,3 +346,5 @@ beállítására és szenzorok kalibrálására.
 
       Az interfész lehetőséget biztosít az aktivitások történetének visszakeresésére és megosztására közösségi médiában 
 vagy e-mailen keresztül.
+
+## Fogalomszótár:
