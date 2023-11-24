@@ -304,7 +304,15 @@ Néhány kulcsfontosságú pont az RSSI-vel kapcsolatban:
 
      Az RSSI         figyelembevételével az eszközök képesek felmérni a környezeti zavarokat és interferenciát. Az alacsony RSSI-értékek gyakran jelzik, hogy zavarok vagy távolság miatt problémák lehetnek a kommunikációval.
 
+4.  Dinamikus jellemző:
 
+     Az RSSI értéke változhat a környezeti tényezők, például falak, épületek vagy más vezeték nélküli eszközök jelenlétének függvényében. Dinamikus jellegéből adódóan az RSSI nem mindig egyenes arányban áll a távolsággal vagy a jelminőséggel.
+
+5.  Bluetooth és Wi-Fi:
+
+     Az RSSI fogalom gyakran kapcsolódik a Bluetooth és Wi-Fi technológiákhoz, ahol az eszközök egymás közötti kommunikáció során használják. Az RSSI érték alapján az eszközök dönthetnek arról, hogy megtartják vagy elveszítik a kapcsolatot, és az alkalmazások optimalizálhatják a vezeték nélküli kapcsolatokat.
+
+Az RSSI használata kulcsfontosságú a vezeték nélküli kommunikációs rendszerek tervezésében, optimalizálásában és hibaelhárításában, és segíthet az eszközöknek kiválasztani a legjobb elérési pontot vagy eszközt a hatékony és megbízható kommunikáció érdekében.
 
 ## Felhasználói Interfész:
 
