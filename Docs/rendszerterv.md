@@ -356,3 +356,26 @@ beállítására és szenzorok kalibrálására.
 vagy e-mailen keresztül.
 
 ## Fogalomszótár:
+Ez segíti a felhasználókat abban, hogy áttekintést kapjanak teljesítményükről és fejlődésükről.
+
+1. Funkciók és Menüpontok:
+
+- Az interfész tartalmaz egy könnyen kezelhető menürendszert, amely segíti a felhasználókat az egyes funkciók
+gyors elérésében, például barátok hozzáadása, versenyekhez csatlakozás vagy eredmények megosztása.
+
+2. Kitüntetések és Jutalmak:
+
+- Az alkalmazás kitüntetéseket és jutalmakat ad az elért eredményekért. Ezek a részletek a felhasználói profilban
+jelennek meg, ösztönözve a felhasználókat az aktívabb életmódra.
+
+3. Személyre Szabhatóság:
+
+- Az interfész lehetővé teszi a felhasználók számára a személyre szabhatóságot, például a téma, a háttér és a
+megjelenített adatok beállítását.
+
+4. Social Sharing:
+
+- A felhasználóknak lehetősége van megosztani eredményeiket és útvonalaikat közösségi médiában, így másokkal
+is megoszthatják sikereiket és élményeiket.
+
+
