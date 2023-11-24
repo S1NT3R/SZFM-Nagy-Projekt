@@ -378,4 +378,37 @@ megjelenített adatok beállítását.
 - A felhasználóknak lehetősége van megosztani eredményeiket és útvonalaikat közösségi médiában, így másokkal
 is megoszthatják sikereiket és élményeiket.
 
+5. Guest Mód:
 
+- Az interfész tartalmaz egy vendég módot, amely lehetővé teszi az alkalmazás használatát regisztráció nélkül.
+Ez lehetővé teszi a felhasználók számára az alkalmazás kipróbálását, mielőtt hozzáfognának a teljes funkcionalitáshoz.
+
+6. Notification és Értesítések:
+
+- Az alkalmazás értesítéseket küld a felhasználóknak, például elért célok, új kitüntetések vagy barátok
+aktívitása esetén.
+
+- A felhasználói interfész tervezésekor fontos szempontok a felhasználói élmény, az egyszerű kezelhetőség és az
+információk könnyű elérhetősége voltak. Az áttekinthető és intuitív design segíti a felhasználókat a könnyű
+navigációban és az alkalmazás teljes körű kihasználásában.
+Tesztelés és Hibajavítás:
+
+7. A tesztelés és hibajavítás 
+
+- A fejlesztési folyamat kritikus része. Célja a rendszer funkcionalitásának, stabilitásának és biztonságának ellenőrzése, valamint a felhasználói élmény optimalizálása. Az alábbiakban ismertetjük a tervezett tesztelési lépéseket és hibajavítási eljárásokat:
+
+- Funkcionális Tesztelés:
+    - Lépésszámlálás és távolságmérés ellenőrzése.
+    - ránymeghatározás funkció tesztelése.
+    - Felhasználói profil létrehozása és szerkesztése.
+    - Barátok hozzáadása és barátkérések kezelése.
+    - Kitüntetések és jutalmak ellenőrzése.
+    - Térképes navigáció tesztelése.
+    - Statisztikák és diagramok ellenőrzése.
+
+- Teljesítmény Tesztelés:
+    - Nagy adatmennyiségek esetén a rendszer válaszidejének ellenőrzése.
+    - Többfelhasználós környezetben történő teljesítménytesztelés.
+
+- Biztonsági Tesztelés:
+    - Adatbiztonság ellenőrzése, különös tekintettel a felhasználói profilokra és aktivitásokra.
