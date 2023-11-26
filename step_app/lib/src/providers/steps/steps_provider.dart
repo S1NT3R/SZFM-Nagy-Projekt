@@ -3,15 +3,14 @@ import 'package:step_app/src/resources/handlers/exception_handler.dart';
 import 'package:step_app/src/resources/interfaces/loading_interface.dart';
 
 class StepsProvider extends LoadingInterface {
-  int steps = 1000;
+  int steps = 0;
 
-  Future<Exception?> getSteps() async {
+  Future<Exception?> getSteps(int steps) async {
     try {
       isLoading = true;
-      steps = await Future.delayed(
-        const Duration(seconds: 1),
-        () => steps,
-      );
+      Forest.debug("Getting steps: $steps");
+      Forest.debug("Getting steps: ${this.steps}");
+      this.steps = steps;
       Forest.success("Getting steps success: $steps");
       isLoading = false;
       return null;
@@ -22,14 +21,14 @@ class StepsProvider extends LoadingInterface {
     }
   }
 
-  Future<Exception?> incrementSteps() async {
+  Future<Exception?> setSteps(int steps) async {
     try {
       isLoading = true;
-      steps = await Future.delayed(
-        const Duration(milliseconds: 300),
-        () => steps += 1,
+      this.steps = await Future.delayed(
+        const Duration(seconds: 1),
+        () => steps,
       );
-      Forest.success("Incrementing steps success: $steps");
+      Forest.success("Setting steps success: $steps");
       isLoading = false;
       return null;
     } catch (e) {
