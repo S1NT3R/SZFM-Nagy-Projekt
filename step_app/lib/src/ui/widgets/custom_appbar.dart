@@ -1,6 +1,5 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:step_app/src/resources/theme/application_style.dart';
 
 class CustomAppbar extends StatelessWidget implements PreferredSizeWidget {
@@ -52,8 +51,9 @@ class CustomAppbar extends StatelessWidget implements PreferredSizeWidget {
       title: showLogo
           ? Container(
               alignment: Alignment.center,
-              child: SvgPicture.asset(
-                "assets/images/logo2.svg",
+              child: Image.asset(
+                "assets/images/logo2.png",
+                height: 100,
               ),
             )
           : title != null
