@@ -286,6 +286,9 @@ hogy milyen méretű és forgalmú alkalmazást tervezel.
 
 Az RSSI (Received Signal Strength Indication) egy vezeték nélküli kommunikációs paraméter, amely azt mutatja meg, mennyire erős a fogadott rádiófrekvenciás jel. Az RSSI értéket általában decibelben (dBm) vagy relatív értékben fejezik ki, és azt mutatja meg, hogy a vételi eszköz (pl. okostelefon, Wi-Fi adapter) milyen erősségű jelet észlel egy küldő eszköztől (például vezeték nélküli hozzáférési pont, Bluetooth eszköz).
 
+![](RSSI_funk.png)
+
+
 Néhány kulcsfontosságú pont az RSSI-vel kapcsolatban:
 
 1.  Mérési skála:
@@ -307,6 +310,8 @@ Néhány kulcsfontosságú pont az RSSI-vel kapcsolatban:
 5.  Bluetooth és Wi-Fi:
 
      Az RSSI fogalom gyakran kapcsolódik a Bluetooth és Wi-Fi technológiákhoz, ahol az eszközök egymás közötti kommunikáció során használják. Az RSSI érték alapján az eszközök dönthetnek arról, hogy megtartják vagy elveszítik a kapcsolatot, és az alkalmazások optimalizálhatják a vezeték nélküli kapcsolatokat.
+
+![](RSSI_distance.png) 
 
 Az RSSI használata kulcsfontosságú a vezeték nélküli kommunikációs rendszerek tervezésében, optimalizálásában és hibaelhárításában, és segíthet az eszközöknek kiválasztani a legjobb elérési pontot vagy eszközt a hatékony és megbízható kommunikáció érdekében.
 
