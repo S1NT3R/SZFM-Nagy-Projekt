@@ -3,6 +3,8 @@
     Alkalmazás verzió: 0.0.1
     Mobile: Samsung Galaxy S20+
     Tesztelő: Urbán Eszter Klára
+    OS: Android 13
+    API level: 33
 
 Tesztesetek
 2.1 Felhasználói Felület Tesztek
