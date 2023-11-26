@@ -153,9 +153,6 @@ A lépésszámláló és iránymeghatározás pontosságának növelése érdek�
 Ez a karbantartási és továbbfejlesztési terv segít abban, hogy az alkalmazás naprakész maradjon, javítsa a felhasználói élményt és reagáljon az ügyfelek igényeire.   
 A folyamatos fejlesztés és frissítések hozzájárulnak az alkalmazás hosszú távú sikeréhez és relevanciájához.
 
-## Fogalom szótár:
-[TODO]
-
 ## Időpontok:
 
 6. Hét:
@@ -287,7 +284,36 @@ hogy milyen méretű és forgalmú alkalmazást tervezel.
 
 ## Rendszerarchitektúra:
 
-[TODO]
+Az RSSI (Received Signal Strength Indication) egy vezeték nélküli kommunikációs paraméter, amely azt mutatja meg, mennyire erős a fogadott rádiófrekvenciás jel. Az RSSI értéket általában decibelben (dBm) vagy relatív értékben fejezik ki, és azt mutatja meg, hogy a vételi eszköz (pl. okostelefon, Wi-Fi adapter) milyen erősségű jelet észlel egy küldő eszköztől (például vezeték nélküli hozzáférési pont, Bluetooth eszköz).
+
+![](RSSI_funk.png)
+
+
+Néhány kulcsfontosságú pont az RSSI-vel kapcsolatban:
+
+1.  Mérési skála:
+
+    Az RSSI érték egy negatív skálán van kifejezve, például -30 dBm és -100 dBm között. Minél kisebb az érték abszolút értékben, annál erősebb a fogadott jel. Tehát egy -30 dBm érték egy erősebb jelre utal, mint egy -80 dBm érték.
+
+2.   Távolság és jelminőség:
+
+     Az RSSI segíthet becsülni a két eszköz közötti távolságot és a vezeték nélküli kapcsolat minőségét. Általában az erősebb jel erősebb kapcsolatot és közelebbi távolságot jelez.
+
+3.   Zavarok és interferencia:
+
+     Az RSSI         figyelembevételével az eszközök képesek felmérni a környezeti zavarokat és interferenciát. Az alacsony RSSI-értékek gyakran jelzik, hogy zavarok vagy távolság miatt problémák lehetnek a kommunikációval.
+
+4.  Dinamikus jellemző:
+
+     Az RSSI értéke változhat a környezeti tényezők, például falak, épületek vagy más vezeték nélküli eszközök jelenlétének függvényében. Dinamikus jellegéből adódóan az RSSI nem mindig egyenes arányban áll a távolsággal vagy a jelminőséggel.
+
+5.  Bluetooth és Wi-Fi:
+
+     Az RSSI fogalom gyakran kapcsolódik a Bluetooth és Wi-Fi technológiákhoz, ahol az eszközök egymás közötti kommunikáció során használják. Az RSSI érték alapján az eszközök dönthetnek arról, hogy megtartják vagy elveszítik a kapcsolatot, és az alkalmazások optimalizálhatják a vezeték nélküli kapcsolatokat.
+
+![](RSSI_distance.png) 
+
+Az RSSI használata kulcsfontosságú a vezeték nélküli kommunikációs rendszerek tervezésében, optimalizálásában és hibaelhárításában, és segíthet az eszközöknek kiválasztani a legjobb elérési pontot vagy eszközt a hatékony és megbízható kommunikáció érdekében.
 
 ## Felhasználói Interfész:
 
@@ -329,3 +355,61 @@ beállítására és szenzorok kalibrálására.
 
       Az interfész lehetőséget biztosít az aktivitások történetének visszakeresésére és megosztására közösségi médiában 
 vagy e-mailen keresztül.
+
+## Fogalomszótár:
+Ez segíti a felhasználókat abban, hogy áttekintést kapjanak teljesítményükről és fejlődésükről.
+
+1. Funkciók és Menüpontok:
+
+- Az interfész tartalmaz egy könnyen kezelhető menürendszert, amely segíti a felhasználókat az egyes funkciók
+gyors elérésében, például barátok hozzáadása, versenyekhez csatlakozás vagy eredmények megosztása.
+
+2. Kitüntetések és Jutalmak:
+
+- Az alkalmazás kitüntetéseket és jutalmakat ad az elért eredményekért. Ezek a részletek a felhasználói profilban
+jelennek meg, ösztönözve a felhasználókat az aktívabb életmódra.
+
+3. Személyre Szabhatóság:
+
+- Az interfész lehetővé teszi a felhasználók számára a személyre szabhatóságot, például a téma, a háttér és a
+megjelenített adatok beállítását.
+
+4. Social Sharing:
+
+- A felhasználóknak lehetősége van megosztani eredményeiket és útvonalaikat közösségi médiában, így másokkal
+is megoszthatják sikereiket és élményeiket.
+
+5. Guest Mód:
+
+- Az interfész tartalmaz egy vendég módot, amely lehetővé teszi az alkalmazás használatát regisztráció nélkül.
+Ez lehetővé teszi a felhasználók számára az alkalmazás kipróbálását, mielőtt hozzáfognának a teljes funkcionalitáshoz.
+
+6. Notification és Értesítések:
+
+- Az alkalmazás értesítéseket küld a felhasználóknak, például elért célok, új kitüntetések vagy barátok
+aktívitása esetén.
+
+- A felhasználói interfész tervezésekor fontos szempontok a felhasználói élmény, az egyszerű kezelhetőség és az
+információk könnyű elérhetősége voltak. Az áttekinthető és intuitív design segíti a felhasználókat a könnyű
+navigációban és az alkalmazás teljes körű kihasználásában.
+Tesztelés és Hibajavítás:
+
+7. A tesztelés és hibajavítás 
+
+- A fejlesztési folyamat kritikus része. Célja a rendszer funkcionalitásának, stabilitásának és biztonságának ellenőrzése, valamint a felhasználói élmény optimalizálása. Az alábbiakban ismertetjük a tervezett tesztelési lépéseket és hibajavítási eljárásokat:
+
+- Funkcionális Tesztelés:
+    - Lépésszámlálás és távolságmérés ellenőrzése.
+    - ránymeghatározás funkció tesztelése.
+    - Felhasználói profil létrehozása és szerkesztése.
+    - Barátok hozzáadása és barátkérések kezelése.
+    - Kitüntetések és jutalmak ellenőrzése.
+    - Térképes navigáció tesztelése.
+    - Statisztikák és diagramok ellenőrzése.
+
+- Teljesítmény Tesztelés:
+    - Nagy adatmennyiségek esetén a rendszer válaszidejének ellenőrzése.
+    - Többfelhasználós környezetben történő teljesítménytesztelés.
+
+- Biztonsági Tesztelés:
+    - Adatbiztonság ellenőrzése, különös tekintettel a felhasználói profilokra és aktivitásokra.
