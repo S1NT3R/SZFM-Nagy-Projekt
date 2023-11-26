@@ -6,6 +6,8 @@ class ApplicationStyle {
   static const Color backgroundColor = Color(0xFF628CCA);
   static const Color transparent = Colors.transparent;
   static const Color darkBlueColor = Color(0xFF001A29);
+  static const Color green = Color(0xFF04D500);
+  static const Color red = Color(0xFFEB0000);
 
   static const Color primaryColor = Color(0xFF628CCA);
   static const Color textColor = Color(0xFF000000);
